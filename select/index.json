@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "【MV】My Kisah - Pingu",
+  "base_artist": "Pingu Ch.",
+  "createdAt": "2026-03-29T14:50:04.632330Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My Kisah",
+      "artist": "Pingu",
+      "has_synced": false,
+      "path": "select/01_My_Kisah_Pingu.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kisah Tak Sempurna",
+      "artist": "SAMSONS",
+      "has_synced": true,
+      "path": "select/02_Kisah_Tak_Sempurna_SAMSONS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sebuah Kisah Klasik",
+      "artist": "Sheila On 7",
+      "has_synced": true,
+      "path": "select/03_Sebuah_Kisah_Klasik_Sheila_On_7.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kisah Sempurna",
+      "artist": "Mahalini",
+      "has_synced": true,
+      "path": "select/04_Kisah_Sempurna_Mahalini.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kisah Antara Kita",
+      "artist": "One Avenue Band",
+      "has_synced": true,
+      "path": "select/05_Kisah_Antara_Kita_One_Avenue_Band.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kisah Antara Kita [ Studio Version ]",
+      "artist": "One Avenue Band",
+      "has_synced": true,
+      "path": "select/06_Kisah_Antara_Kita_[_Studio_Version_]_One_Avenue_Band.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kisah Pahlawan Bermasker",
+      "artist": "Wali",
+      "has_synced": true,
+      "path": "select/07_Kisah_Pahlawan_Bermasker_Wali.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kisah Sebentar",
+      "artist": "Tulus",
+      "has_synced": true,
+      "path": "select/08_Kisah_Sebentar_Tulus.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Kisah Bahagia",
+      "artist": "Laze feat. Italiani",
+      "has_synced": true,
+      "path": "select/09_Kisah_Bahagia_Laze_feat._Italiani.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kisah Bahagia (feat. Italiani)",
+      "artist": "Laze",
+      "has_synced": true,
+      "path": "select/10_Kisah_Bahagia_(feat._Italiani)_Laze.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Kisah Cintaku",
+      "artist": "peterpan",
+      "has_synced": true,
+      "path": "select/11_Kisah_Cintaku_peterpan.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "02 Kisah Cintaku",
+      "artist": "Peterpan",
+      "has_synced": true,
+      "path": "select/12_02_Kisah_Cintaku_Peterpan.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kisah Aku",
+      "artist": "Marvells",
+      "has_synced": true,
+      "path": "select/13_Kisah_Aku_Marvells.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Kisah Aku",
+      "artist": "Marvels",
+      "has_synced": true,
+      "path": "select/14_Kisah_Aku_Marvels.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Kisah Kasih Di Sekolah",
+      "artist": "Hetty Koes Endang",
+      "has_synced": true,
+      "path": "select/15_Kisah_Kasih_Di_Sekolah_Hetty_Koes_Endang.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Kisah Kita",
+      "artist": "Ari Lasso",
+      "has_synced": false,
+      "path": "select/16_Kisah_Kita_Ari_Lasso.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Kisah Yang Salah",
+      "artist": "The Bakuucakar feat. Andmesh",
+      "has_synced": true,
+      "path": "select/17_Kisah_Yang_Salah_The_Bakuucakar_feat._Andmesh.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Kisah Yang Salah",
+      "artist": "The Bakuucakar, Andmesh",
+      "has_synced": true,
+      "path": "select/18_Kisah_Yang_Salah_The_Bakuucakar,_Andmesh.lrc"
+    }
+  ]
+}
